@@ -1,6 +1,6 @@
-package com.zypper.modules.authenticator.service;
+package com.arminzheng.authenticator.service;
 
-import com.zypper.modules.authenticator.pojo.po.ToFactorAuthPO;
+import com.arminzheng.authenticator.pojo.po.ToFactorAuthPO;
 
 /**
  * @author John

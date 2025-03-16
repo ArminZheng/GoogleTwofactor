@@ -1,10 +1,10 @@
-package com.zypper.modules.authenticator.controller;
+package com.arminzheng.authenticator.controller;
 
-import com.zypper.modules.authenticator.pojo.po.ToFactorAuthPO;
-import com.zypper.modules.authenticator.pojo.vo.AuthVO;
-import com.zypper.modules.authenticator.service.AuthService;
-import com.zypper.modules.authenticator.service.GoogleAuthenticatorService;
-import com.zypper.modules.authenticator.utils.QrCodeUtil;
+import com.arminzheng.authenticator.pojo.po.ToFactorAuthPO;
+import com.arminzheng.authenticator.pojo.vo.AuthVO;
+import com.arminzheng.authenticator.service.AuthService;
+import com.arminzheng.authenticator.service.GoogleAuthenticatorService;
+import com.arminzheng.authenticator.utils.QrCodeUtil;
 import java.util.HashMap;
 import java.util.Map;
 import lombok.SneakyThrows;

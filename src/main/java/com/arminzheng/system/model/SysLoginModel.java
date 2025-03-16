@@ -1,4 +1,4 @@
-package com.zypper.modules.system.model;
+package com.arminzheng.system.model;
 
 import lombok.Data;
 

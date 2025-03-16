@@ -1,4 +1,4 @@
-package com.zypper.modules.authenticator.pojo.po;
+package com.arminzheng.authenticator.pojo.po;
 
 public class SysUser {
     private String password;

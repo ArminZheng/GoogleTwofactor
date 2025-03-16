@@ -1,4 +1,4 @@
-package com.zypper.modules.authenticator.utils;
+package com.arminzheng.authenticator.utils;
 
 import com.google.zxing.BarcodeFormat;
 import com.google.zxing.EncodeHintType;

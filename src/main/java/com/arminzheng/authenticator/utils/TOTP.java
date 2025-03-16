@@ -8,7 +8,7 @@
  4.c of the IETF Trust's Legal Provisions Relating to IETF Documents
  (http://trustee.ietf.org/license-info).
  */
-package com.zypper.modules.authenticator.utils;
+package com.arminzheng.authenticator.utils;
 
 import java.lang.reflect.UndeclaredThrowableException;
 import java.math.BigInteger;

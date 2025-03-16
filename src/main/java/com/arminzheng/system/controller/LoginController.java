@@ -1,15 +1,15 @@
-package com.zypper.modules.system.controller;
+package com.arminzheng.system.controller;
 
 import com.alibaba.fastjson2.JSONObject;
-import com.zypper.modules.authenticator.pojo.po.SysUser;
-import com.zypper.modules.authenticator.pojo.po.ToFactorAuthPO;
-import com.zypper.modules.authenticator.pojo.vo.Result;
-import com.zypper.modules.authenticator.service.AuthService;
-import com.zypper.modules.authenticator.utils.TOTP;
-import com.zypper.modules.system.model.SysLoginModel;
-import com.zypper.modules.system.service.ISysUserService;
-import com.zypper.modules.system.util.JwtUtil;
-import com.zypper.modules.system.util.RedisUtil;
+import com.arminzheng.authenticator.pojo.po.SysUser;
+import com.arminzheng.authenticator.pojo.po.ToFactorAuthPO;
+import com.arminzheng.authenticator.pojo.vo.Result;
+import com.arminzheng.authenticator.service.AuthService;
+import com.arminzheng.authenticator.utils.TOTP;
+import com.arminzheng.system.model.SysLoginModel;
+import com.arminzheng.system.service.ISysUserService;
+import com.arminzheng.system.util.JwtUtil;
+import com.arminzheng.system.util.RedisUtil;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestBody;

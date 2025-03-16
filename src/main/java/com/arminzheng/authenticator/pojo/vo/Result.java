@@ -1,4 +1,4 @@
-package com.zypper.modules.authenticator.pojo.vo;
+package com.arminzheng.authenticator.pojo.vo;
 
 import java.io.Serializable;
 import lombok.Getter;
